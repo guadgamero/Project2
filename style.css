@@ -5,8 +5,24 @@ body {
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
-nav{
+.navi {
   background-color: rgb(255, 231, 190);
+  margin: 0;
+  padding: 0;
+}
+
+.navi ul {
+  background-color: rgb(255, 231, 190);
+  margin: 0;
+  padding: 0;
+  border: 3px solid rgb(225, 201, 160);
+}
+
+.navi li {
+  background-color: rgb(255, 231, 190);
+  display: inline;
+  margin: 0;
+  padding: 0;
 }
 
 .squirtle {
@@ -58,6 +74,6 @@ nav{
 .gallery H1{
   background-color: rgb(253, 226, 231);
   font-family: 'Marck Script', cursive;
-  font-size: 40px;
+  font-size: 50px;
   position: relative;
 }
