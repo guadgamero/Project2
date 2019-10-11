@@ -8,6 +8,7 @@ body {
   font-family: 'Comic Sans', sans-serif;
   font-size: 20px;
   position: relative;
+  right: 20px;
 }
 
 .murkrow {
@@ -15,6 +16,8 @@ body {
   font-family: 'Comic Sans', sans-serif;
   font-size: 20px;
   position: relative;
+  left: 20px;
+  right: 0px;
 }
 
 .cherubi {
@@ -22,6 +25,7 @@ body {
   font-family: 'Comic Sans', sans-serif;
   font-size: 20px;
   position: relative;
+  right: 20px;
 }
 
 .sobble {
@@ -29,4 +33,7 @@ body {
   font-family: 'Comic Sans', sans-serif;
   font-size: 20px;
   position: relative;
+  left: 20px;
+  right: 0px;
 }
+
