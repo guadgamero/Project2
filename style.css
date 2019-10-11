@@ -3,6 +3,10 @@ body {
   background-color: rgb(250, 136, 136);
 }
 
+nav{
+  background-color: rgb(255, 231, 190);
+}
+
 .squirtle {
   background-color: rgb(255, 192, 154);
   font-family: 'Comic Sans', sans-serif;
@@ -37,3 +41,7 @@ body {
   right: 0px;
 }
 
+.gallery {
+  background-color: rgb(253, 226, 231);
+  font-family: 'Marck Script', cursive;
+}
