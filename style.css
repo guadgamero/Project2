@@ -1,6 +1,8 @@
 body {
   margin: 0;
+  padding: 0;
   background-color: rgb(250, 136, 136);
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 nav{
@@ -12,7 +14,8 @@ nav{
   font-family: 'Comic Sans', sans-serif;
   font-size: 20px;
   position: relative;
-  right: 20px;
+  right: -20px;
+  left: 0px;
 }
 
 .murkrow {
@@ -29,7 +32,8 @@ nav{
   font-family: 'Comic Sans', sans-serif;
   font-size: 20px;
   position: relative;
-  right: 20px;
+  right: -20px;
+  left: 0px;
 }
 
 .sobble {
@@ -44,4 +48,16 @@ nav{
 .gallery {
   background-color: rgb(253, 226, 231);
   font-family: 'Marck Script', cursive;
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+  bottom: 0px;
+  margin-bottom: 0;
+}
+
+.gallery H1{
+  background-color: rgb(253, 226, 231);
+  font-family: 'Marck Script', cursive;
+  font-size: 40px;
+  position: relative;
 }
