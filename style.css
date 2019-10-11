@@ -5,4 +5,28 @@ body {
 
 .squirtle {
   background-color: rgb(255, 192, 154);
+  font-family: 'Comic Sans', sans-serif;
+  font-size: 20px;
+  position: relative;
+}
+
+.murkrow {
+  background-color: rgb(255, 231, 190);
+  font-family: 'Comic Sans', sans-serif;
+  font-size: 20px;
+  position: relative;
+}
+
+.cherubi {
+  background-color: rgb(163, 212, 255);
+  font-family: 'Comic Sans', sans-serif;
+  font-size: 20px;
+  position: relative;
+}
+
+.sobble {
+  background-color: rgb(127, 200, 255);
+  font-family: 'Comic Sans', sans-serif;
+  font-size: 20px;
+  position: relative;
 }
